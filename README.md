@@ -3,7 +3,7 @@
 Para empezar se necesita clonar el proyecto.
 
 ```{.bash}
-git clone https://github.com/appuntos/fullstack-challenge
+git clone https://github.com/yahel0892/counter.git
 ```
 
 Después hay que dirigirse al directorio donde clono el proyecto.
